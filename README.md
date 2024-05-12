@@ -11,3 +11,14 @@
 * blog-front 博客前端
     * 挂载数据卷 nginx/ nginx配置文件
     * 挂载数据卷 dist/ 前端部署代码
+
+
+[前端代码分支](https://github.com/grainmad/springbot-vue-blog/tree/blog-front)
+``` shell
+git clone --branch blog-front https://github.com/grainmad/springbot-vue-blog.git blog-front
+```
+
+[后端代码分支](https://github.com/grainmad/springbot-vue-blog/tree/blog-backend)
+``` shell
+git clone --branch blog-backend https://github.com/grainmad/springbot-vue-blog.git blog-backend
+```
