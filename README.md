@@ -13,12 +13,12 @@
     * 挂载数据卷 dist/ 前端部署代码
 
 
-[前端代码分支](https://github.com/grainmad/springbot-vue-blog/tree/blog-front)
+[前端代码分支](https://github.com/grainmad/springboot-vue-blog/tree/blog-front)
 ``` shell
-git clone --branch blog-front https://github.com/grainmad/springbot-vue-blog.git blog-front
+git clone --branch blog-front https://github.com/grainmad/springboot-vue-blog.git blog-front
 ```
 
-[后端代码分支](https://github.com/grainmad/springbot-vue-blog/tree/blog-backend)
+[后端代码分支](https://github.com/grainmad/springboot-vue-blog/tree/blog-backend)
 ``` shell
-git clone --branch blog-backend https://github.com/grainmad/springbot-vue-blog.git blog-backend
+git clone --branch blog-backend https://github.com/grainmad/springboot-vue-blog.git blog-backend
 ```
